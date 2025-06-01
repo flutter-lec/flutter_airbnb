@@ -21,7 +21,7 @@ const double gap_xs = 5;
 const double header_height = 620;
 
 // mediaQuery 클래스로 화면 사이즈를 받을 수 있다
-/// Created By JAWON, 2025.06.01
+/// Created By JAEWON, 2025.06.01
 ///
 /// email : won8070@naver.com
 ///
